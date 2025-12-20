@@ -58,7 +58,5 @@ class HashMap:
 <p align="center"><img src="https://holopin.me/mansiruhil13" alt="cover" /><img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhilmansi&langs_count=100&layout=compact&show_icons=true&include_all_commits=true&count_private=true&custom_title=Programming+Langauges&bg_color=ffffff00&title_color=c9d1d9&border_color=262626&text_color=c9c5c5&border_radius=3" width="100%" alt="Top languages" /><br/></p></a>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kzilptrgtcbmhzoxjq3ut5huo4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
-  </a>
+  <iframe src="https://open.spotify.com/embed/track/56sxN1yKg1dgOZXBcAHkJG" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </p>
